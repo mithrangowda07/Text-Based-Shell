@@ -515,4 +515,4 @@ Ensure that you have a C compiler installed on your system to compile the source
 
  
 
-For any questions, feedback, or inquiries about the project, please feel free to contact us at shashwathsh.is22@rvce.edu.in We welcome your input and look forward to hearing from you! 
+For any questions, feedback, or inquiries about the project, please feel free to contact us at mithrangowda.is23@rvce.edu.in We welcome your input and look forward to hearing from you! 
